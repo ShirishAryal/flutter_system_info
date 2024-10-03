@@ -1,0 +1,6 @@
+framework module system_info {
+  umbrella header "system_info-umbrella.h"
+
+  export *
+  module * { export * }
+}
